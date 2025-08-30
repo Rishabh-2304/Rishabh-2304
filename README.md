@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo](C:\Users\91630\Downloads\Github-banner.jpg)
+![logo](Github-banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
